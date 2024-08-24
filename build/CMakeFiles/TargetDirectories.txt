@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/http.server.cpp/build/CMakeFiles/SimpleHttpServer.dir
+C:/Users/User/Desktop/http.server.cpp/build/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/http.server.cpp/build/CMakeFiles/rebuild_cache.dir
